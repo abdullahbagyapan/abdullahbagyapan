@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abdullah Bagyapan
-- 👀 I’m interested in Front-End technologies
-- 🌱 I’m currently learning Javascript
+- 👀 I’m interested in Backend technologies
+- 🌱 I’m currently learning Java Spring
 
 <!---
 abdullahbagyapan/abdullahbagyapan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
