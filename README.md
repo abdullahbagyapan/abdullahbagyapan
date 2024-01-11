@@ -41,25 +41,11 @@
   
 </div>
 
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-
-
-<table align="center">
-  <tr>
-    <td width="50%" align="center">
-       <img src="https://github-readme-stats.vercel.app/api?username=abdullahbagyapan&amp;theme=neon&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false" alt="">
-    </td>
-  <td width="50%" align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahbagyapan&amp;theme=neon&amp;hide_border=false" alt="">   
-  </td>
- </tr>
-</table> 
-
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!">
 </h3>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
