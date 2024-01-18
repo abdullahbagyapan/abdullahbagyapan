@@ -4,7 +4,7 @@
 
 <h3 align="center">🚀 Backend Developer 🚀</h3>
 
-- 🌱 I'm currently learning <b>JavaScript</b>.
+- 🌱 I'm currently learning <b>Golang</b>.
 
 - 📫 You can reach me on [Mail](abdullahbagyapan@hotmail.com)
 
@@ -32,7 +32,7 @@
 
  <div align="left"> 
   <a href="mailto:abdullahbagyapan@hotmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/mail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
      
   <a href="https://linkedin.com/in/abdullahbagyapan" target="_blank">
